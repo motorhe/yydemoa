@@ -1,0 +1,119 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(246, 247, 249, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:375px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u164_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:378px;
+}
+#u164 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:378px;
+}
+#u164_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u165_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:295px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u165 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:372px;
+  width:375px;
+  height:295px;
+}
+#u165_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u166_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:155px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:28px;
+  color:#C73C27;
+  text-align:left;
+}
+#u166 {
+  border-width:0px;
+  position:absolute;
+  left:40px;
+  top:77px;
+  width:155px;
+  height:40px;
+  font-size:28px;
+  color:#C73C27;
+  text-align:left;
+}
+#u166_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:151px;
+  word-wrap:break-word;
+}
+#u167 {
+  border-width:0px;
+  position:absolute;
+  left:42px;
+  top:320px;
+  width:290px;
+  height:52px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
